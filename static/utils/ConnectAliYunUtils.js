@@ -2,9 +2,9 @@
 var crypto = require("./hex_hmac_sha1.js") 
 const deviceConfigs = {
   //三元组，修改为自己的
-  productKey: "a1V0WObZHjP",
-  deviceName: "wechatApp",
-  deviceSecret: "uuQ84A97jASrCAPkycv8QIA8IX7KBNsq",
+  productKey: "******",
+  deviceName: ""******",",
+  deviceSecret: ""******",",
   regionId: "cn-shanghai"
 }
 
